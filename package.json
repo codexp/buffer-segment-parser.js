@@ -1,0 +1,25 @@
+{
+  "name": "@codexp/buffer-segment-parser",
+  "version": "0.0.1",
+  "description": "data buffer segment parser",
+  "main": "buffer-segment-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codexp/buffer-segment-parser.js.git"
+  },
+  "keywords": [
+    "data",
+    "buffer",
+    "segment",
+    "parser"
+  ],
+  "author": "CodeXP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codexp/buffer-segment-parser.js/issues"
+  },
+  "homepage": "https://github.com/codexp/buffer-segment-parser.js#readme"
+}
